@@ -40,16 +40,16 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <a href="https://github.com/AliShahzad">
-    <img src="https://github-readme-stats.vercel.app/api?username=AliShahzad&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" alt="GitHub Stats" />
+  <a href="https://github.com/alishizadi-742693">
+    <img src="https://github-readme-stats.vercel.app/api?username=alishizadi-742693&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" alt="GitHub Stats" />
   </a>
   <br />
-  <a href="https://github.com/AliShahzad">
-    <img src="https://streak-stats.demolab.com?user=AliShahzad&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <a href="https://github.com/alishizadi-742693">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=alishizadi-742693&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
   </a>
   <br />
-  <a href="https://github.com/AliShahzad">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliShahzad&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <a href="https://github.com/alishizadi-742693">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishizadi-742693&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
   </a>
 </p>
 
@@ -57,20 +57,20 @@
 
 ### 🚀 Featured Projects:
 
-- 🛒 **[LUMI E-Commerce Store](https://github.com/AliShahzad/LUMI)** – A dynamic e-commerce platform built with **React & Firebase**.
-- 🏥 **[Clinic POS System](https://github.com/AliShahzad/ClinicPOS)** – A **Pharmacy & Prescription Management** system for clinics.
-- 🎨 **[Tailor Gen](https://github.com/AliShahzad/TailorGen)** – AI-powered **custom apparel design** platform.
-- 🌍 **[Wander We](https://github.com/AliShahzad/WanderWe)** – A **FlutterFlow-based tourism app** for travel enthusiasts.
+- 🛒 **[LUMI E-Commerce Store](https://github.com/alishizadi-742693/LUMI)** – A dynamic e-commerce platform built with **React & Firebase**.
+- 🏥 **[Clinic POS System](https://github.com/alishizadi-742693/ClinicPOS)** – A **Pharmacy & Prescription Management** system for clinics.
+- 🎨 **[Tailor Gen](https://github.com/alishizadi-742693/TailorGen)** – AI-powered **custom apparel design** platform.
+- 🌍 **[Wander We](https://github.com/alishizadi-742693/WanderWe)** – A **FlutterFlow-based tourism app** for travel enthusiasts.
 
 ---
 
 ### 📫 Connect with Me:
 
-- **Portfolio:** [Coming Soon!]
-- **LinkedIn:** [linkedin.com/in/alishahzad](https://linkedin.com/in/alishahzad)
-- **GitHub:** [github.com/AliShahzad](https://github.com/AliShahzad)
-- **Email:** [alishahzad@example.com](mailto:alishahzad@example.com)
-- **Twitter/X:** [@AliShahzadDev](https://twitter.com/AliShahzadDev)
+- **Portfolio:** [alishizadi.netlify.app](https://alishizadi.netlify.app)
+- **LinkedIn:** [linkedin.com/in/ali-shahzad-as742693](https://www.linkedin.com/in/ali-shahzad-as742693)
+- **GitHub:** [github.com/alishizadi-742693](https://github.com/alishizadi-742693)
+- **Email:** [alishahzad.as270@gmail.com](mailto:alishahzad.as270@gmail.com)
+- **Instagram:** [instagram.com/alyyysk](https://www.instagram.com/alyyysk)
 
 🚀 *Let's build something amazing together!*
 
