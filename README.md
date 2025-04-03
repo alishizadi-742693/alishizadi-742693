@@ -40,11 +40,17 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliShahzad&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/AliShahzad">
+    <img src="https://github-readme-stats.vercel.app/api?username=AliShahzad&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" alt="GitHub Stats" />
+  </a>
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliShahzad&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/AliShahzad">
+    <img src="https://streak-stats.demolab.com?user=AliShahzad&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  </a>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliShahzad&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/AliShahzad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliShahzad&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  </a>
 </p>
 
 ---
