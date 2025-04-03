@@ -49,7 +49,8 @@
   </a>
   <br />
   <a href="https://github.com/alishizadi-742693">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishizadi-742693&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishizadi-742693&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+
   </a>
 </p>
 
