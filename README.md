@@ -58,9 +58,12 @@
 
 ### 🚀 Featured Projects:
 
-- 🛒 **[LUMI E-Commerce Store](https://github.com/alishizadi-742693/LUMI)** – A dynamic e-commerce platform built with **React & Firebase**.
-- 🏥 **[Clinic POS System](https://github.com/alishizadi-742693/ClinicPOS)** – A **Pharmacy & Prescription Management** system for clinics.
-- 🎨 **[Tailor Gen](https://github.com/alishizadi-742693/TailorGen)** – AI-powered **custom apparel design** platform.
+- 🎨 **[Personal Portfolio](https://alishahzad.netlify.app)** – My Personal peorfolio Webiste build on **Next & Email JS**.
+- 🌍 **[LCS Poertfolio](https://lumicreativesuite.netlify.app)** – Built my COmpany a marketing agency's Portfolio using **NextJS & 3JS**.
+- 🎨 **[Bukhara By Legacy Website](https://bukharabylegacy.netlify.app)** – A dynamic e-commerce platform built with **NextJs & EmailJs**.
+- 🛒 **[LUMI E-Commerce Store](https://tailorgen.netlify.app)** – A dynamic e-commerce platform built with **React & Firebase**.
+- 🏥 **[Clinic POS System](https://pharmacypos.netlify.app)** – A **Pharmacy & Prescription Management** system for clinics.
+- 🎨 **[Tailor Gen](https://tailorgen.netlify.app)** – AI-powered **custom apparel design** platform.
 - 🌍 **[Wander We](https://github.com/alishizadi-742693/WanderWe)** – A **FlutterFlow-based tourism app** for travel enthusiasts.
 
 ---
