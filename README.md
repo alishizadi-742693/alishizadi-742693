@@ -36,21 +36,19 @@
 ```
 
 ---
-
 ### 📊 GitHub Stats:
 
 <p align="center">
   <a href="https://github.com/alishizadi-742693">
-    <img src="https://github-readme-stats.vercel.app/api?username=alishizadi-742693&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alishizadi-742693&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" alt="Ali's GitHub Stats" />
   </a>
   <br />
   <a href="https://github.com/alishizadi-742693">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=alishizadi-742693&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=alishizadi-742693&theme=radical&hide_border=true&background=0d1117" alt="Ali's GitHub Streak" />
   </a>
   <br />
   <a href="https://github.com/alishizadi-742693">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishizadi-742693&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishizadi-742693&langs_count=6&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&card_width=400" alt="Top Languages" />
   </a>
 </p>
 
