@@ -59,8 +59,10 @@
 ### 🚀 Featured Projects:
 
 - 🎨 **[Personal Portfolio](https://alishahzad.netlify.app)** – My Personal peorfolio Webiste build on **Next & Email JS**.
-- 🌍 **[LCS Poertfolio](https://lumicreativesuite.netlify.app)** – Built my COmpany a marketing agency's Portfolio using **NextJS & 3JS**.
+- 🌍 **[LCS Portfolio](https://lumicreativesuite.netlify.app)** – Built my COmpany a marketing agency's Portfolio using **NextJS & 3JS**.
 - 🎨 **[Bukhara By Legacy Website](https://bukharabylegacy.netlify.app)** – A dynamic e-commerce platform built with **NextJs & EmailJs**.
+- 🎨 **[Personal Portfolio](https://alishahzad.netlify.app)** – My Personal peorfolio Webiste build on **Next & Email JS**.
+- 🎨 **[Personal Portfolio](https://alishahzad.netlify.app)** – My Personal peorfolio Webiste build on **Next & Email JS**.
 - 🛒 **[LUMI E-Commerce Store](https://tailorgen.netlify.app)** – A dynamic e-commerce platform built with **React & Firebase**.
 - 🏥 **[Clinic POS System](https://pharmacypos.netlify.app)** – A **Pharmacy & Prescription Management** system for clinics.
 - 🎨 **[Tailor Gen](https://tailorgen.netlify.app)** – AI-powered **custom apparel design** platform.
