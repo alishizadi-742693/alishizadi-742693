@@ -13,6 +13,13 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
+
+### 📈 Activity Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alishizadi-742693&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF)](https://github.com/alishizadi-742693)
+
+</div>
+
+<div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alishizadi-742693&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=10" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=alishizadi-742693&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=10" alt="GitHub Streak" />
 </div>
@@ -130,37 +137,6 @@ const Ali = {
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4ff6-9b08-a2a8c3c0c61f.gif" width="100%">
-
----
-
-## 🎯 Current Goals for 2025
-
-```javascript
-const goals2025 = {
-    technical: [
-        "🚀 Master Microservices Architecture",
-        "☁️ Get AWS & Azure Certified",
-        "🤖 Build AI-powered SaaS Products",
-        "📱 Launch 3 Mobile Apps on App Stores"
-    ],
-    
-    professional: [
-        "🏢 Establish my Software House",
-        "💼 Land High-Impact Freelance Projects",
-        "🌟 Contribute to 10+ Open Source Projects",
-        "📝 Write Technical Blogs & Tutorials"
-    ],
-    
-    personal: [
-        "📚 Read 20 Tech Books",
-        "🎤 Speak at Tech Meetups",
-        "🤝 Mentor Aspiring Developers",
-        "🏋️ Maintain Work-Life Balance"
-    ]
-};
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
 ---
 
